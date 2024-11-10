@@ -1,3 +1,6 @@
 [submodule "packages/ui"]
 	path = packages/ui
 	url = https://github.com/verysoyoung/ui.git
+[submodule "apps/web"]
+	path = apps/web
+	url = https://github.com/verysoyoung/web.git
